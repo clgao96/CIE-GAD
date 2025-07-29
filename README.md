@@ -1,7 +1,6 @@
-# Correlation Information Enhanced Graph Anomaly Detection via Hypergraph Transformation （CIE-GAD）
+# Correlation Information Enhanced Graph Anomaly Detection via Hypergraph Transformation (CIE-GAD)
 
-This is the official code of the TCYB paper [Correlation Information Enhanced Graph Anomaly Detection via Hypergraph Transformation] (CIE-GAD). 
-
+This is the official code of the TCYB paper "Correlation Information Enhanced Graph Anomaly Detection via Hypergraph Transformation". 
 ![The proposed framework](./framework.png)
 
 ## Requirments
